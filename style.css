@@ -1,0 +1,21 @@
+body {
+background-color: aqua;
+}
+
+h1 
+{font-family: 'Special Elite', fantasy;
+color: blueviolet;
+background-color: greenyellow;
+}
+#Sketch_name
+{
+    color: rgb(0, 0, 0);
+}
+#show_sketch
+{
+ float: right;
+}
+canvas
+{
+    border: 5px solid rgb(209, 21, 21);
+}
